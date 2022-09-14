@@ -1,1 +1,1 @@
-https://docs.google.com/viewer?url={link_to_pdf}
+https://docs.google.com/viewer?url=https://username.github.io/folder/document.pdf
