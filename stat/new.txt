@@ -1,1 +1,1 @@
-https://docs.google.com/viewer?url=https://username.github.io/folder/document.pdf
+https://docs.google.com/viewer?url=https://github.com/amitava-0304/task/blob/main/Day3-%20fsds%20bootcamp.pdf
